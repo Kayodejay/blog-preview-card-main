@@ -27,13 +27,13 @@ Users should be able to:
 
 ### Screenshot
 
-![mobile design]()
-![desktop design]()
+![mobile design](.//assets/images/Mobile-design.png)
+![desktop design](.//assets/images/desktop-design.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Kayodejay/blog-preview-card-main](https://github.com/Kayodejay/blog-preview-card-main)
+- Live Site URL: [https://blog-prvw-card.netlify.app/](https://blog-prvw-card.netlify.app/)
 
 ## My process
 
@@ -64,7 +64,6 @@ Areas i would still have to do more extensive research is on **responsiveness of
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Kevin Powell's practical guide to responsive web design](https://www.youtube.com/watch?v=x4u1yp3Msao) - This helped change my mindset towards CSS and using media queries. It helped me understand the concept of hinting at things and letting the browser live within those constraints. 
 
 ## Author
